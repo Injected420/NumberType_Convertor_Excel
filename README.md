@@ -1,6 +1,6 @@
 # NumberType Convertor in Excel
 
-### An Excel sheet that converts Binary into Decimel, Hexadeicmel. and Octal.
+### An Excel sheet that converts the type of number you place in the column, to its other formats. (Octal, Binary, Hexadecimel)
 
 This Excel sheet is simple, but very useful. 
 The first row that begins with `Decimal` will convert the ***Decimal Number*** you place in **`Column A`** into its `Binary`, `Hexadecimal`, and `Octal` equivlants.
