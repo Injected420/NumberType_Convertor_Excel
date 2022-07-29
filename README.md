@@ -1,4 +1,4 @@
-# Binary-Convertor
+# NumberType Convertor in Excel
 
 ### An Excel sheet that converts Binary into Decimel, Hexadeicmel. and Octal.
 
